@@ -97,3 +97,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+data
+*.h5
+models
+*.swp
+*.p
+
